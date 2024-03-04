@@ -17,6 +17,7 @@ Tableau: Skilled in designing interactive dashboards and visualizations to showc
 Python: Experienced in data wrangling, exploratory data analysis, and statistical modeling using libraries like Pandas, NumPy, and Matplotlib.
 Jupyter: Proficient in leveraging Jupyter Notebooks for data exploration, documentation, and collaboration.
 PostgreSQL/MySQL: Experienced in database management, schema design, and optimizing queries for performance.
+Excel: Experience with pivot table analysis and process optimization. 
 
 GET IN TOUCH
 
